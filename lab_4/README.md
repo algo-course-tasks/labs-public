@@ -279,7 +279,7 @@ def remove_duplicates(items):
 - [Хеширование - Algoritmica](https://ru.algorithmica.org/cs/hashing/)
 - [Hash Table - Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
 - Problem Solving with Algorithms and Data Structures Using Python. Брэд Миллер и Дэвид Рэнум
-- [⬆️ Глава про хеш-таблицы в русском переводе](aliev.me/runestone/SortSearch/Hashing.html)
+- [⬆️ Глава про хеш-таблицы в русском переводе](https://aliev.me/runestone/SortSearch/Hashing.html)
 - "Algorithms". Роберт Седжвик и Кевин Уэйн (Глава 3.4)
 - "Introduction to Algorithms" (CLRS, Глава 12)
 - [MIT 6.006: Hashing](https://www.youtube.com/watch?v=Nu8YGneFCWE)
